@@ -1,11 +1,11 @@
 # TO-DO-LIST
 ### - Mobile Site Template :-
 
-![Mobile Site Template](/images/m.gif)
+![Mobile Site Template](/IMAGES/m.gif)
 
 ### - Computer Site Template :-
 
-![Mobile Site Template](/images/c.gif)
+![Mobile Site Template](/IMAGES/c.gif)
 
 # - Comments !
 
